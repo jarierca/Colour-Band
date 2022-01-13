@@ -1,0 +1,12 @@
+MenuScreenMusica nivelMusica;
+MenuScreenMusica nivelEfecto;
+    
+    
+nivelMusica = new MenuScreenMusica();
+nivelMusic = nivelMusica.getNivelMusica();
+    	
+nivelEfecto = new MenuScreenMusica();
+nivelEfectos = nivelEfecto.getNivelEfectos();
+
+nivelMusica = new MenuScreenMusica();
+nivelMusic = nivelMusica.getNivelMusica();
